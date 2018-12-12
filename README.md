@@ -121,9 +121,7 @@ then the  nlp_result will look like:
 ```
 
 ## General comments:
-* ``iter`` library is used in reading files to avoid memory overload by the ``readlines`` function often used, which could cause issues in larger sets of data.
-* ``iter`` is utilised as well in several cases instead of for-loop minimize overloading the memory by loading a large list into it, while only one item is needed to process.
-* ``Tuples`` are used in customer orders since they are immutable, as such, protect the orders from any changes.
+* [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation) & [LSI](https://en.wikipedia.org/wiki/Latent_semantic_analysis) models are used for text analysis. Please click on each to get to know more.
 
 ## Possible Improvements
 * POS tagging
