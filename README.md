@@ -5,11 +5,11 @@ A paint shop needs to satisfy customers orders, one order per customer would be 
 
 ## Features
 That project includes the following features:
-*Text summarization
-*Keyword extraction
-*Topic modeling
-*Sentiment analysis
-*Emotion analysis
+* Text summarization
+* Keyword extraction
+* Topic modeling
+* Sentiment analysis
+* Emotion analysis
 
 ## Usage example
 We will use a very small data crawled by [Floralytics](http://www.floralytics.com/demo-page/) crawler aka. Miner, as an example. You can feed it with any JSON data from an API or stored.
