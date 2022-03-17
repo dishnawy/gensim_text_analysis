@@ -1,7 +1,6 @@
 # Gensim text analysis
 > This is an example of a production text analysis engine built on top of gensim, spacy, scikit-learn with microservice(aka. RESTful API) using Flask and gunicorn/nginx.
 
-A paint shop needs to satisfy customers orders, one order per customer would be enough to satisfy a customer order. At the sametime, the paintshop would like to minimize the number of Matte orders as much as possible.
 
 ## Features
 That project includes the following features:
